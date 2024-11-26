@@ -1,0 +1,22 @@
+[
+  {
+    "username": "dangdh@innotech-vn.com",
+    "pass": "Aa@123456",
+    "case": "LoginTestPass"
+  },
+  {
+    "username": "dangdh123@innotech-vn.com",
+    "pass": "Aa@123456",
+    "case": "LoginTestInvalidUsername"
+  },
+  {
+    "username": "dangdh@innotech-vn.com",
+    "pass": "Aa@123456123",
+    "case": "LoginTestInvalidPassword"
+  },
+  {
+    "username": "dangdh123@innotech-vn.com",
+    "pass": "Aa@123456123",
+    "case": "LoginTestInvalidUserAndPass"
+  }
+]
