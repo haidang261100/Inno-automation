@@ -11,12 +11,12 @@
   },
   {
     "username": "dangdh@innotech-vn.com",
-    "pass": "Aa@123456123",
+    "pass": "Aa@1234561234",
     "case": "LoginTestInvalidPassword"
   },
   {
     "username": "dangdh123@innotech-vn.com",
-    "pass": "Aa@123456123",
+    "pass": "Aa@1234561234",
     "case": "LoginTestInvalidUserAndPass"
   }
 ]
